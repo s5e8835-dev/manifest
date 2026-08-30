@@ -1,4 +1,4 @@
-# Local manifests for building LineageOS 23.2 for a54x (Exynos 1380)
+# Local manifests for building crDroid 12.X for a54x (Exynos 1380)
 
 Includes hardware repos, Device trees, Vendor trees, and the kernel source.
 
